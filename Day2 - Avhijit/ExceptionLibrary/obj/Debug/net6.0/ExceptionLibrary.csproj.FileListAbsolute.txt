@@ -1,0 +1,12 @@
+D:\.NET codes\ExceptionLibrary\bin\Debug\net6.0\ExceptionLibrary.deps.json
+D:\.NET codes\ExceptionLibrary\bin\Debug\net6.0\ExceptionLibrary.dll
+D:\.NET codes\ExceptionLibrary\bin\Debug\net6.0\ExceptionLibrary.pdb
+D:\.NET codes\ExceptionLibrary\obj\Debug\net6.0\ExceptionLibrary.csproj.AssemblyReference.cache
+D:\.NET codes\ExceptionLibrary\obj\Debug\net6.0\ExceptionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET codes\ExceptionLibrary\obj\Debug\net6.0\ExceptionLibrary.AssemblyInfoInputs.cache
+D:\.NET codes\ExceptionLibrary\obj\Debug\net6.0\ExceptionLibrary.AssemblyInfo.cs
+D:\.NET codes\ExceptionLibrary\obj\Debug\net6.0\ExceptionLibrary.csproj.CoreCompileInputs.cache
+D:\.NET codes\ExceptionLibrary\obj\Debug\net6.0\ExceptionLibrary.dll
+D:\.NET codes\ExceptionLibrary\obj\Debug\net6.0\refint\ExceptionLibrary.dll
+D:\.NET codes\ExceptionLibrary\obj\Debug\net6.0\ExceptionLibrary.pdb
+D:\.NET codes\ExceptionLibrary\obj\Debug\net6.0\ref\ExceptionLibrary.dll
