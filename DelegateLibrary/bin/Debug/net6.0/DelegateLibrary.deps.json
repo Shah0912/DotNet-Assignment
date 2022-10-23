@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DelegateLibrary/1.0.0": {
+        "dependencies": {
+          "CustomerLibrary": "1.0.0",
+          "EmployeeLibrary": "1.0.0",
+          "StudentLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DelegateLibrary.dll": {}
+        }
+      },
+      "CustomerLibrary/1.0.0": {
+        "runtime": {
+          "CustomerLibrary.dll": {}
+        }
+      },
+      "EmployeeLibrary/1.0.0": {
+        "runtime": {
+          "EmployeeLibrary.dll": {}
+        }
+      },
+      "StudentLibrary/1.0.0": {
+        "runtime": {
+          "StudentLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DelegateLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
