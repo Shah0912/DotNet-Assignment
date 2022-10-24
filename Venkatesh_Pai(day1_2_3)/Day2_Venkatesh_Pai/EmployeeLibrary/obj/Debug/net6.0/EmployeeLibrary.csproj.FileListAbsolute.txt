@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\EmployeeLibrary\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.exe
+C:\Users\Administrator\source\repos\EmployeeLibrary\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.deps.json
+C:\Users\Administrator\source\repos\EmployeeLibrary\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.runtimeconfig.json
+C:\Users\Administrator\source\repos\EmployeeLibrary\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.dll
+C:\Users\Administrator\source\repos\EmployeeLibrary\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.pdb
+C:\Users\Administrator\source\repos\EmployeeLibrary\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\EmployeeLibrary\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\EmployeeLibrary\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\EmployeeLibrary\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\EmployeeLibrary\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\EmployeeLibrary\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.dll
+C:\Users\Administrator\source\repos\EmployeeLibrary\EmployeeLibrary\obj\Debug\net6.0\refint\EmployeeLibrary.dll
+C:\Users\Administrator\source\repos\EmployeeLibrary\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.pdb
+C:\Users\Administrator\source\repos\EmployeeLibrary\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\EmployeeLibrary\EmployeeLibrary\obj\Debug\net6.0\ref\EmployeeLibrary.dll
