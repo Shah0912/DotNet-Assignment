@@ -73,7 +73,7 @@ namespace Bank.Test
         public void CannotUnderflowBalance()
         {
             Assert.That(account.Balance, Is.EqualTo(0));
-            Assert.Catch(typeof(Exception), () => account.Withdraw(1), "Insufficient balance");
+            Assert.Catch(typeof(InvalidOperationException), () => account.Withdraw(1), "Insufficient balance");
         }
     }
 }

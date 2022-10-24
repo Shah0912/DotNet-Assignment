@@ -41,7 +41,7 @@
             }
             if (Balance < amountToWithdraw)
             {
-                throw new Exception("Insufficient balance");
+                throw new InvalidOperationException("Insufficient balance");
             }
             Balance -= amountToWithdraw;
         }
