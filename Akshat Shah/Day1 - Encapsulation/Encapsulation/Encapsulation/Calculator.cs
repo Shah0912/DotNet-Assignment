@@ -8,6 +8,9 @@ namespace Encapsulation
 {
     internal class Calculator
     {
+        /// <summary>
+        /// Enumeration to encapsulate the different operations supported by this class.
+        /// </summary>
         public enum Operations
         {
             ADDITION = 1,
@@ -15,8 +18,10 @@ namespace Encapsulation
             MULTIPLICATION = 3,
             DIVISION = 4
         };
+
         public int Operand1 { get; set; }
         public int Operand2 { get; set; }
+
         private int operation;
         public string Operation
         {
@@ -34,10 +39,11 @@ namespace Encapsulation
         }
         public int Result { get; set; }
 
+        /// <summary>
+        /// Method for getting user input. Sets the <c>operation</c>, <c>Operand1</c> and <c>Operand2</c> fields.
+        /// </summary>
         public void GetData()
         {
-            // TODO: Get choice of operation
-
             Console.WriteLine("Enter number to select operation: ");
             Console.WriteLine("1 - Addition");
             Console.WriteLine("2 - Subtraction");
@@ -96,6 +102,9 @@ namespace Encapsulation
             throw new NotImplementedException();
         }
 
+        /// <summary>
+        /// Prints the operands, type of operation and the result of the operation
+        /// </summary>
         public void PrintData()
         {
             Console.WriteLine($"Operand 1: {Operand1}");
@@ -105,9 +114,37 @@ namespace Encapsulation
             Console.WriteLine();
         }
 
+        /// <summary>
+        /// Adds two integers.
+        /// </summary>
+        /// <param name="a">First operand, the augend</param>
+        /// <param name="b">Second operand, the addend</param>
+        /// <returns>Sum of the two operands, <c>a + b</c></returns>
         public int Add(int a, int b) => a + b;
+
+        /// <summary>
+        /// Subtracts second integer from the second.
+        /// </summary>
+        /// <param name="a">First operand, the minuend</param>
+        /// <param name="b">Second operand, the subtrahend</param>
+        /// <returns>Difference between the two operands, <c>a - b</c></returns>
         public int Subtract(int a, int b) => a - b;
+
+        /// <summary>
+        /// Multiplies two integers.
+        /// </summary>
+        /// <param name="a">First operand, the multiplicand</param>
+        /// <param name="b">Second operand, the multiplier</param>
+        /// <returns>Product of the two operands, <c>a * b</c></returns>
         public int Multiply(int a, int b) => a * b;
+
+        /// <summary>
+        /// Divides the two integers.
+        /// </summary>
+        /// <param name="a">First operand, the dividend</param>
+        /// <param name="b">Second operand, the divisor</param>
+        /// <returns>Quotient of the division</returns>
+        /// <exception cref="ArgumentException">If the divisor is zero</exception>
         public int Divide(int a, int b)
         {
             if (b == 0)
@@ -117,6 +154,11 @@ namespace Encapsulation
             return a / b;
         }
 
+        /// <summary>
+        /// Carries out the operation.
+        /// </summary>
+        /// <returns>Results of the operation.</returns>
+        /// <exception cref="NotImplementedException">If the operation field is set to an invalid integer (not from 1-4)</exception>
         public int Calculate()
         {
             try
