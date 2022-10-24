@@ -1,0 +1,16 @@
+C:\Jai Garg\Day3\StackImplementation\StackImplementation\bin\Debug\net5.0\StackImplementation.exe
+C:\Jai Garg\Day3\StackImplementation\StackImplementation\bin\Debug\net5.0\StackImplementation.deps.json
+C:\Jai Garg\Day3\StackImplementation\StackImplementation\bin\Debug\net5.0\StackImplementation.runtimeconfig.json
+C:\Jai Garg\Day3\StackImplementation\StackImplementation\bin\Debug\net5.0\StackImplementation.runtimeconfig.dev.json
+C:\Jai Garg\Day3\StackImplementation\StackImplementation\bin\Debug\net5.0\StackImplementation.dll
+C:\Jai Garg\Day3\StackImplementation\StackImplementation\bin\Debug\net5.0\StackImplementation.pdb
+C:\Jai Garg\Day3\StackImplementation\StackImplementation\obj\Debug\net5.0\StackImplementation.csproj.AssemblyReference.cache
+C:\Jai Garg\Day3\StackImplementation\StackImplementation\obj\Debug\net5.0\StackImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jai Garg\Day3\StackImplementation\StackImplementation\obj\Debug\net5.0\StackImplementation.AssemblyInfoInputs.cache
+C:\Jai Garg\Day3\StackImplementation\StackImplementation\obj\Debug\net5.0\StackImplementation.AssemblyInfo.cs
+C:\Jai Garg\Day3\StackImplementation\StackImplementation\obj\Debug\net5.0\StackImplementation.csproj.CoreCompileInputs.cache
+C:\Jai Garg\Day3\StackImplementation\StackImplementation\obj\Debug\net5.0\StackImplementation.dll
+C:\Jai Garg\Day3\StackImplementation\StackImplementation\obj\Debug\net5.0\refint\StackImplementation.dll
+C:\Jai Garg\Day3\StackImplementation\StackImplementation\obj\Debug\net5.0\StackImplementation.pdb
+C:\Jai Garg\Day3\StackImplementation\StackImplementation\obj\Debug\net5.0\StackImplementation.genruntimeconfig.cache
+C:\Jai Garg\Day3\StackImplementation\StackImplementation\obj\Debug\net5.0\ref\StackImplementation.dll
