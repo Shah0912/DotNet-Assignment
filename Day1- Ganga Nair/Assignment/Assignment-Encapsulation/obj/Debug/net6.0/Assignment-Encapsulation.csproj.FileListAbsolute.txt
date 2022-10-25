@@ -1,0 +1,15 @@
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day1- Ganga Nair\Assignment\Assignment-Encapsulation\bin\Debug\net6.0\Assignment-Encapsulation.exe
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day1- Ganga Nair\Assignment\Assignment-Encapsulation\bin\Debug\net6.0\Assignment-Encapsulation.deps.json
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day1- Ganga Nair\Assignment\Assignment-Encapsulation\bin\Debug\net6.0\Assignment-Encapsulation.runtimeconfig.json
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day1- Ganga Nair\Assignment\Assignment-Encapsulation\bin\Debug\net6.0\Assignment-Encapsulation.dll
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day1- Ganga Nair\Assignment\Assignment-Encapsulation\bin\Debug\net6.0\Assignment-Encapsulation.pdb
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day1- Ganga Nair\Assignment\Assignment-Encapsulation\obj\Debug\net6.0\Assignment-Encapsulation.csproj.AssemblyReference.cache
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day1- Ganga Nair\Assignment\Assignment-Encapsulation\obj\Debug\net6.0\Assignment-Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day1- Ganga Nair\Assignment\Assignment-Encapsulation\obj\Debug\net6.0\Assignment-Encapsulation.AssemblyInfoInputs.cache
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day1- Ganga Nair\Assignment\Assignment-Encapsulation\obj\Debug\net6.0\Assignment-Encapsulation.AssemblyInfo.cs
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day1- Ganga Nair\Assignment\Assignment-Encapsulation\obj\Debug\net6.0\Assignment-Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day1- Ganga Nair\Assignment\Assignment-Encapsulation\obj\Debug\net6.0\Assignment-Encapsulation.dll
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day1- Ganga Nair\Assignment\Assignment-Encapsulation\obj\Debug\net6.0\refint\Assignment-Encapsulation.dll
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day1- Ganga Nair\Assignment\Assignment-Encapsulation\obj\Debug\net6.0\Assignment-Encapsulation.pdb
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day1- Ganga Nair\Assignment\Assignment-Encapsulation\obj\Debug\net6.0\Assignment-Encapsulation.genruntimeconfig.cache
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day1- Ganga Nair\Assignment\Assignment-Encapsulation\obj\Debug\net6.0\ref\Assignment-Encapsulation.dll
