@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gUgXoFVvwkCpCDh5c61Ev6deSeueIFUS2JG5rrTlZVJ+FFRfFeKtp2nGTdpvJWICO7U+ummx/f8lsDC9LviQhw==",
+  "success": true,
+  "projectFilePath": "C:\\Jai Garg\\Day-3\\BankApplication\\BankApplication\\BankApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\52jai\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\52jai\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\52jai\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
