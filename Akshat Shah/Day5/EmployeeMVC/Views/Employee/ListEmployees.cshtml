@@ -1,0 +1,32 @@
+﻿@using EmployeeMVC.ViewModels;
+@model EmployeeRecordsViewModel
+@{
+    ViewBag.Title = "List Employees";
+}
+
+<a href="/Employee/Add">Add new employee</a>
+
+<h2>List of Employees</h2>
+
+<div>
+    <table border="1">
+        <tr>
+            <th>Employee ID</th>
+            <th>Name</th>
+            <th>Salary</th>
+        </tr>
+
+        @foreach (EmployeeViewModel employee in Model.EmployeeRecords)
+        {
+            <a href="/Employee/Details/@employee.Id">
+                <tr>
+                    <a href="/Employee/Details/@employee.Id">
+                        <td>@employee.Id</td>
+                    </a>
+                    <td>@employee.Name</td>
+                    <td style="background-color: @employee.SalaryColor">@employee.Salary</td>
+                </tr>   
+            </a>
+        }
+    </table>
+</div>
