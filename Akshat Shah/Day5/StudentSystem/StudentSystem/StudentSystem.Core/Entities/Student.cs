@@ -16,7 +16,7 @@ namespace StudentSystem.Core.Entities
 
         [Required]
         // [RegularExpression("^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$", ErrorMessage = "Email address not valid")]
-        [EmailAddressAttribute]
+        [EmailAddress]
         public string EmailAddress { get; set; }
     }
 }
