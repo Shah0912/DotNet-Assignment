@@ -1,0 +1,12 @@
+﻿@using StudentSystem.Web.Models;
+@model Student;
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<h1>Student ID: @Model.Id</h1>
+<p>Name: @Model.Name</p>
+<p>Email address: @Model.EmailAddress</p>
+<p>GPA: @Model.Gpa</p>
+
+<a asp-action="Index"><button>View all students</button></a>

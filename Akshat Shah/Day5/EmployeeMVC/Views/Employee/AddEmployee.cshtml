@@ -1,0 +1,27 @@
+﻿@using EmployeeMVC.Models;
+@model Employee;
+
+@{
+    ViewBag.Title = "Add Employee";
+}
+
+
+<h2>Add Employee</h2>
+
+<div>
+    <form asp-controller="Employee" asp-action="Add" method="post">
+        <p>First Name:</p>    
+        <input type="text" name="firstname" id="firstname" />
+        <br />
+
+        <p>Last Name:</p>
+        <input type="text" name="lastname" id="lastname" />
+        <br />
+
+        <p>Salary:</p>
+        <input type="number" name="salary" id="salary" />
+        <br />
+
+        <input type="submit" />
+    </form>
+</div>

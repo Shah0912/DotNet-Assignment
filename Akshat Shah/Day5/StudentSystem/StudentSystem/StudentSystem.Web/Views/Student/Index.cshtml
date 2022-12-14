@@ -1,0 +1,29 @@
+﻿@using StudentSystem.Web.Models;
+@model StudentRecords
+@{
+    ViewData["Title"] = "Students";
+}
+
+<h1>Students</h1>
+
+<table>
+    <tr>
+        <th>Student ID</th>
+        <th>Name</th>
+        <th>Email Address</th>
+        <th>GPA</th>
+    </tr>
+    @foreach(Student student in Model.Students)
+    {
+            <tr>
+                <td>
+                    <a asp-action="Details" asp-route-id="@student.Id">
+                        @student.Id
+                    </a>
+                </td>
+                <td>@student.Name</td>
+                <td>@student.EmailAddress</td>
+                <td>@student.Gpa</td>
+            </tr>
+    }
+</table>

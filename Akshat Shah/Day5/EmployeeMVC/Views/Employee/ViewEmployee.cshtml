@@ -1,0 +1,12 @@
+﻿@using EmployeeMVC.ViewModels;
+@model EmployeeViewModel;
+@{
+    ViewBag.Title = "View Employee";
+}
+
+<a href="/Employee/AddNew">Add New Employee</a>
+
+<h2>Employee ID: @Model.Id</h2>
+<p>Name: @Model.Name</p>
+<p style="background-color:@Model.SalaryColor">Salary: @Model.Salary</p>
+

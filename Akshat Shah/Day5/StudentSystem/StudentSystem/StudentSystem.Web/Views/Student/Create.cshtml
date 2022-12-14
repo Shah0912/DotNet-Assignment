@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "Add Student";
+}
+
+<h1>Add Student</h1>
+
+<form asp-action="Create" method="post">
+    <label for="name">Name</label>
+    <input type="text" name="name" />
+    <br />
+
+    <label for="emailAddress">Email</label>
+    <input type="email" name="emailAddress" />
+    <br />
+
+    <label for="gpa">GPA</label>
+    <input type="number" name="gpa" />
+    <br />
+
+    <button type="submit">Submit</button>
+</form>
+
